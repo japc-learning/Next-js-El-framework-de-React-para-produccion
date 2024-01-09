@@ -1,3 +1,6 @@
 [submodule "01-first-steps"]
 	path = 01-first-steps
 	url = https://github.com/pandc19/next-first-steps.git
+[submodule "02-my-dashboard"]
+	path = 02-my-dashboard
+	url = https://github.com/pandc19/next-my-dashboard.git
