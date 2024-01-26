@@ -4,3 +4,6 @@
 [submodule "02-my-dashboard"]
 	path = 02-my-dashboard
 	url = https://github.com/pandc19/next-my-dashboard.git
+[submodule "03-admin-todos"]
+	path = 03-admin-todos
+	url = https://github.com/pandc19/next-admin-todos.git
