@@ -7,3 +7,6 @@
 [submodule "03-admin-todos"]
 	path = 03-admin-todos
 	url = https://github.com/pandc19/next-admin-todos.git
+[submodule "04-teslo-shop"]
+	path = 04-teslo-shop
+	url = https://github.com/pandc19/next-teslo-shop.git
